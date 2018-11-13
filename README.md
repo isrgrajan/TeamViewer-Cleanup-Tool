@@ -3,7 +3,7 @@ TeamViewer Cleanup tool for fresh installation and removing the traces, logs and
 
 ### Download [TeamViewer Cleanup tool](https://github.com/isrgrajan/TeamViewer-Cleanup-Tool/raw/master/TeamViewer%20Cleanup%20Tool.exe).
 
-[![N|Solid](https://raw.githubusercontent.com/isrgrajan/TeamViewer-Cleanup-Tool/master/TeamViewer%20Cleanup%20Tool/ss-t.JPG)]
+(https://raw.githubusercontent.com/isrgrajan/TeamViewer-Cleanup-Tool/master/TeamViewer%20Cleanup%20Tool/ss-t.JPG)
 
 ## License
 Apache
